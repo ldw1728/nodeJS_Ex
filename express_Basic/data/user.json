@@ -1,0 +1,18 @@
+{
+	"second_user": {
+		"password": "second_pass",
+		"name": "kim"
+	},
+	"third_user": {
+		"password": "third_pass",
+		"name": "kang"
+	},
+	"fourth_user": {
+		"password": "third_pass",
+		"name": "lee"
+	},
+	"wooklee": {
+		"password": "1234",
+		"name": "wook"
+	}
+}
